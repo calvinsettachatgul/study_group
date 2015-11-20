@@ -29,4 +29,10 @@ hugh
 Some learning topis:
 (feel free to add to this list)
 
-d3, react, python/django, node/MEAN, IOT/hardware, devops/AWS, docker
+*d3 
+*react 
+*python/django
+*node/MEAN
+*IOT/hardware
+*devops/AWS
+*docker
