@@ -25,3 +25,7 @@ We can try to have a structured intro or in depth learning on topics of interest
 members list:
 calvin
 hugh
+
+Some learning topis:
+(feel free to add to this list)
+d3, react, python/django, node/MEAN, IOT/hardware, devops/AWS, docker
