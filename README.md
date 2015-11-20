@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
 
 Hi there! Welcome to Cloud9 IDE!
@@ -24,6 +17,11 @@ this is an environment to learn and collaborate
 study_group is for group study and collaboration
 
 collaboration environment is cloud9 IDE
+https://ide.c9.io/calvinsettachatgul/study_group
+
 We can meet remotely to study on selected topics.  
 We can try to have a structured intro or in depth learning on topics of interest to us
 
+members list:
+calvin
+hugh
