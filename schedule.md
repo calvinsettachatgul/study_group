@@ -1,6 +1,7 @@
 ##These are suggested minutes to spend for the meeting
 
 Schedule for 90min meeting:
+
 30min
 * warm up with some algorithm question
 * explain and code some data structure
