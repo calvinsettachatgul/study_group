@@ -22,10 +22,6 @@ https://ide.c9.io/calvinsettachatgul/study_group
 We can meet remotely to study on selected topics.  
 We can try to have a structured intro or in depth learning on topics of interest to us
 
-members list:
-calvin
-hugh
-
 Some learning topis:
 (feel free to add to this list)
 
