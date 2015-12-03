@@ -19,17 +19,18 @@ study_group is for group study and collaboration
 collaboration environment is cloud9 IDE
 https://ide.c9.io/calvinsettachatgul/study_group
 
-We can meet remotely to study on selected topics.  
+We can meet remotely to study on selected topics.
 We can try to have a structured intro or in depth learning on topics of interest to us
 
-Some learning topis:
+Some learning topics:
 (feel free to add to this list)
 
-* d3 
-* react 
+* d3
+* react
 * python/django
 * node/MEAN
 * IOT/hardware
 * devops/AWS
 * docker
+* rails
 
