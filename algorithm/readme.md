@@ -1,6 +1,6 @@
 ## linkedlist_12012015
 
-## Resorources
+## Resources
 
 *  https://en.wikipedia.org/wiki/Linked_list
 
