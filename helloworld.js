@@ -22,6 +22,7 @@ functionWrapper("calvin", greeting);
 functionWrapper2("someone", returnName, greeting);
 
 //what do you think about wrappers?
+//what are wrappers?
 //i noticed that javascript uses callbacks all the time and wrappers
 
 //
