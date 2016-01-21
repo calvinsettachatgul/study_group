@@ -8,12 +8,13 @@
 
   ####  Define a module with:
   >  angular.module('module_name', [dependency_moddule1, dependency_module2]);
+
 #### Controllers
   ####  Attaching state and behavior to a module these are properties and methods that are attached to the module's scope
 
   >  .controller('controller_name', controller_constructor);
 
-  #### controller constructor is where you define your state and functions
+#### controller constructor is where you define your state and functions
 
   >  var ctrl = function(){
   >  this.property1 = "some data";
@@ -22,6 +23,7 @@
   >     console.log("this is a function")
   >  }
   > }
+
 #### Directives
 
   >  ng-app
