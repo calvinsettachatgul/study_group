@@ -53,3 +53,8 @@
   *  currency format etc
 
   > {{ expression | filter }}
+
+
+###  Resources
+
+#####  https://docs.angularjs.org/guide/concepts
