@@ -4,13 +4,14 @@
 
 ### Concepts
 #### Modules
-  ####  These are the building blocks for Dependency Injection and making an Angular app more modular
+  *  These are the building blocks for Dependency Injection and making an Angular app more modular
 
-  ####  Define a module with:
+  *  Define a module with:
   >  angular.module('module_name', [dependency_moddule1, dependency_module2]);
 
 #### Controllers
-  ####  Attaching state and behavior to a module these are properties and methods that are attached to the module's scope
+
+  *  Attaching state and behavior to a module these are properties and methods that are attached to the module's scope
 
   >  .controller('controller_name', controller_constructor);
 
@@ -40,8 +41,8 @@
 
 
 #### Expressions
-  * This is where the state/properties of modules can be rendered with the curly brackets
-  *  key benefits of Angular is that the rendering happens with 2 way data binding.
+  *  This is where the state/properties of modules can be rendered with the curly brackets
+  *   key benefits of Angular is that the rendering happens with 2 way data binding.
 
   >  {{ expresion }}
 
