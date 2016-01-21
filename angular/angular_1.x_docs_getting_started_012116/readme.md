@@ -33,11 +33,11 @@
 
   >  ng-init
 
-    *  can instatiate a model
+  *  can instatiate a model
 
   >  ng-model
 
-    *  provides areas in the template where data can be altered
+  *  provides areas in the template where data can be altered
 
 
 #### Expressions
