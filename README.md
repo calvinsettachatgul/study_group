@@ -26,6 +26,7 @@ Some learning topics:
 (feel free to add to this list)
 
 * d3
+* Angular
 * react
 * python/django
 * node/MEAN
