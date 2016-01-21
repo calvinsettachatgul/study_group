@@ -29,7 +29,7 @@
 
   >  ng-app
 
-    *  defines the scope of the angular app within the DOM
+  *  defines the scope of the angular app within the DOM
 
   >  ng-init
 
