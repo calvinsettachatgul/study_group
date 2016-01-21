@@ -27,12 +27,15 @@
 #### Directives
 
   >  ng-app
+
     *  defines the scope of the angular app within the DOM
 
   >  ng-init
+
     *  can instatiate a model
 
   >  ng-model
+
     *  provides areas in the template where data can be altered
 
 
