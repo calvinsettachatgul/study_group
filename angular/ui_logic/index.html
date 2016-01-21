@@ -1,11 +1,11 @@
 <!doctype html>
 <html>
     <head>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.1/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0-rc.1/angular.min.js"></script>
         <script src="invoice.js"></script>
     </head>
     <body>
-        
+
     <div ng-app="invoice1" ng-controller="InvoiceController as invoice">
         <b>Invoice</b>
         <div>
@@ -19,11 +19,11 @@
         </div>
         <div>
             <b>Total:</b>
-            <span ng-repeat="c in invoice.currencies">{{invoice.total(c) | currency:c}}</span>
+            <span ng-repeat="c in invoice.currencies">{{invoice.total(c) | currency:c}} </span>
             <button class="btn" ng-click="invoice.pay()">Pay</button>
         </div>
     </div>
-    
+
     </body>
 </html>
 
