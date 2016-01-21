@@ -39,6 +39,10 @@
 
 *  provides areas in the template where data can be altered
 
+>  ng-repeat
+
+*  can define a rendering template section of html that will repeat over a collection
+
 
 #### Expressions
   *  This is where the state/properties of modules can be rendered with the curly brackets
