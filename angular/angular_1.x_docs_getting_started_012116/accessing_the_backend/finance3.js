@@ -1,16 +1,18 @@
 angular.module('finance3', [])
 .factory('currencyConverter', ['$http', function($http) {
+
+    var hello = "hello world!";
     var YAHOO_FINANCE_URL_PATTERN =
-        '//query.yahooapis.com/v1/public/yql?q=select * from '+
+        'https//query.yahooapis.com/v1/public/yql?q=select * from '+
         'yahoo.finance.xchange where pair in ("PAIRS")&format=json&'+
         'env=store://datatables.org/alltableswithkeys&callback=JSON_CALLBACK';
     var currencies = ['USD', 'EUR', 'CNY'];
     var usdToForeignRates = {};
-    
+
     var convert = function (amount, inCurr, outCurr) {
         return amount * usdToForeignRates[outCurr] / usdToForeignRates[inCurr];
     };
-    
+
     var refresh = function() {
         var url = YAHOO_FINANCE_URL_PATTERN
                     .replace('PAIRS', 'USD' + currencies.join('","USD'));
@@ -23,12 +25,12 @@ angular.module('finance3', [])
             usdToForeignRates = newUsdToForeignRates;
         });
     };
-    
+
     refresh();
-    
+
     return {
+        // hello: hello
         currencies: currencies,
         convert: convert
     };
 }]);
-
