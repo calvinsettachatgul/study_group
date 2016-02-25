@@ -3,7 +3,7 @@ angular.module('finance3', [])
 
     var hello = "hello world!";
     var YAHOO_FINANCE_URL_PATTERN =
-        'https//query.yahooapis.com/v1/public/yql?q=select * from '+
+        'https://query.yahooapis.com/v1/public/yql?q=select * from '+
         'yahoo.finance.xchange where pair in ("PAIRS")&format=json&'+
         'env=store://datatables.org/alltableswithkeys&callback=JSON_CALLBACK';
     var currencies = ['USD', 'EUR', 'CNY'];
