@@ -42,7 +42,6 @@ console.log(ourClassroom.averageScore());
 
 ourClassroom.find("calvin");
 ourClassroom.find("piara");
-debugger;
 // Prototype
 // Every object is linked to a prototype object from which it can inherit properties. All objects created from object literals are linked to Object.prototype, an object that comes standard with JavaScript.
 // Whenyoumakeanewobject,youcanselecttheobjectthatshouldbeitsprototype. The mechanism that JavaScript provides to do this is messy and complex, but it can be significantly simplified. We will add a create method to the Object function. The create method creates a new object that uses an old object as its prototype. There will be much more about functions in the next chapter.
